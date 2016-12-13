@@ -1,0 +1,10 @@
+# awesome-libraries
+Awesome js and css libraries for web development.
+
+## Libraries
+
+* Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
+* Custom scrollbars: http://grsmto.github.io/simplebar/
+* A touch slideout navigation menu for your mobile web apps: https://slideout.js.org
+* The fast and capable dropdown library: http://github.hubspot.com/drop/docs/welcome/
+* Simple lightbox script without dependencies (not even jQuery): https://github.com/DxF5H/lightbox
