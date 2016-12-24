@@ -10,9 +10,12 @@ Awesome js and css libraries and resources for web development.
 * Simple lightbox script without dependencies (not even jQuery): https://github.com/DxF5H/lightbox
 * Color generator: https://coolors.co/
 * Datetime picker: https://chmln.github.io/flatpickr/
+* Datetime picker: http://www.dematte.at/tinyDatePicker/
+* Range: https://rangetouch.com/
 
 ## Angular 2 Libraries and Resources
 
 * Popup: http://plnkr.co/edit/fe0kgemFBtmQOY31b4tw?p=preview
 * ngif and click: http://jilles.me/ng-click-and-ng-if-in-angular2/
 * ngif: http://lishman.io/angular-2-built-in-directives
+* UI library: http://www.primefaces.org/primeng/#/
