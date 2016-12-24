@@ -1,4 +1,4 @@
-# awesome-libraries
+# Awesome Libraries and Resources
 Awesome js and css libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
