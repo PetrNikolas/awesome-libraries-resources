@@ -12,6 +12,9 @@ Awesome js and css libraries and resources for web development.
 * Datetime picker: https://chmln.github.io/flatpickr/
 * Datetime picker: http://www.dematte.at/tinyDatePicker/
 * Range: https://rangetouch.com/
+* CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work.: http://livereload.com/
+* Modern CSS to all browsers: http://stylecow.github.io/
+* EXPRESSIVE, DYNAMIC, ROBUST CSS: http://stylus-lang.com/
 
 ## Angular 2 Libraries and Resources
 
