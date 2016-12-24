@@ -19,3 +19,6 @@ Awesome js and css libraries and resources for web development.
 * ngif and click: http://jilles.me/ng-click-and-ng-if-in-angular2/
 * ngif: http://lishman.io/angular-2-built-in-directives
 * UI library: http://www.primefaces.org/primeng/#/
+* Angular and SASS: http://www.angulartypescript.com/angular-2-sass/
+* Angular 2 UI Framework: http://www.angulartypescript.com/angular-2-ui-framework/
+* Angular 2 Starter Kit: http://angular2starterkit.com/
