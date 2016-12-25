@@ -17,6 +17,8 @@ Awesome js and css libraries and resources for web development.
 * EXPRESSIVE, DYNAMIC, ROBUST CSS: http://stylus-lang.com/
 * Presentation Attributes vs Inline Styles: https://css-tricks.com/presentation-attributes-vs-inline-styles/
 * A lightweight (~2kb) and dependency-free javascript plugin for particle backgrounds: https://marcbruederlin.github.io/particles.js/
+* A tiny polyfill for HTML5 multi-handle sliders: http://leaverou.github.io/multirange/
+* Lightweight validation using form element attributes: http://skyefradd.me/attrvalidate
 
 ## Angular 2 Libraries and Resources
 
