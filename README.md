@@ -15,6 +15,8 @@ Awesome js and css libraries and resources for web development.
 * CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work.: http://livereload.com/
 * Modern CSS to all browsers: http://stylecow.github.io/
 * EXPRESSIVE, DYNAMIC, ROBUST CSS: http://stylus-lang.com/
+* Presentation Attributes vs Inline Styles: https://css-tricks.com/presentation-attributes-vs-inline-styles/
+* A lightweight (~2kb) and dependency-free javascript plugin for particle backgrounds: https://marcbruederlin.github.io/particles.js/
 
 ## Angular 2 Libraries and Resources
 
@@ -25,3 +27,4 @@ Awesome js and css libraries and resources for web development.
 * Angular and SASS: http://www.angulartypescript.com/angular-2-sass/
 * Angular 2 UI Framework: http://www.angulartypescript.com/angular-2-ui-framework/
 * Angular 2 Starter Kit: http://angular2starterkit.com/
+* Angular Material: https://material.angular.io/
