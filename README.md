@@ -19,6 +19,8 @@ Awesome js and css libraries and resources for web development.
 * A lightweight (~2kb) and dependency-free javascript plugin for particle backgrounds: https://marcbruederlin.github.io/particles.js/
 * A tiny polyfill for HTML5 multi-handle sliders: http://leaverou.github.io/multirange/
 * Lightweight validation using form element attributes: http://skyefradd.me/attrvalidate
+* CSS styling of select element without JS, and using inline SVG: https://github.com/carloscabo/pure-css-select-style
+* A simple, accessible HTML5 media player: https://plyr.io/
 
 ## Angular 2 Libraries and Resources
 
