@@ -21,6 +21,7 @@ Awesome js/css libraries and resources for web development.
 * Lightweight validation using form element attributes: http://skyefradd.me/attrvalidate
 * CSS styling of select element without JS, and using inline SVG: https://github.com/carloscabo/pure-css-select-style
 * A simple, accessible HTML5 media player: https://plyr.io/
+* Styleable select elements: http://github.hubspot.com/select/docs/welcome/
 
 ## Angular 2 Libraries and Resources
 
