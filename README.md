@@ -39,6 +39,7 @@ Awesome js/css libraries and resources for web development.
 * Simple and elegant component-based UI library: http://riotjs.com
 * Single Element CSS Spinners: https://projects.lukehaas.me/css-loaders/
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
+* A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 
 ## Angular 2 Libraries and Resources
 
