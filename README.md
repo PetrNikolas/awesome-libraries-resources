@@ -23,10 +23,20 @@ Awesome js/css libraries and resources for web development.
 * CSS styling of select element without JS, and using inline SVG: https://github.com/carloscabo/pure-css-select-style
 * A simple, accessible HTML5 media player: https://plyr.io/
 * Styleable select elements: http://github.hubspot.com/select/docs/welcome/
-* Bundle your scripts: https://webpack.js.org
-* A modern JavaScript utility library delivering modularity, performance & extras: https://lodash.com
-* Babel is a JavaScript compiler, next generation JavaScript, today: https://babeljs.io
-* A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org
+* Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects: http://underscorejs.org
+* Spectacular Test Runner for JavaScript: http://karma-runner.github.io/1.0/index.html
+* Animations: http://dynamicsjs.com
+* Presentaion micro framework: http://markdalgleish.com/projects/bespoke.js/
+* A JavaScript library for Google Analytics: http://boba.space150.com
+* The JavaScript SVG library for the modern web: http://snapsvg.io
+* parallax scrolling for the masses: http://prinzhorn.github.io/skrollr/
+* vivus, bringing your SVGs to life: http://maxwellito.github.io/vivus/
+* Waypoints is the easiest way to trigger a function when you scroll to an element: http://imakewebthings.com/waypoints/
+* A general-purpose, web standards-based platform for parsing and rendering PDFs: http://mozilla.github.io/pdf.js/
+* Create Beautiful Fullscreen Scrolling Websites: http://alvarotrigo.com/fullPage/#firstPage
+* Offline.js Every app goes offline: http://github.hubspot.com/offline/docs/welcome/
+* Inputs: http://leaverou.github.io/stretchy/
+* Simple and elegant component-based UI library: http://riotjs.com
 
 ## Angular 2 Libraries and Resources
 
