@@ -37,6 +37,8 @@ Awesome js/css libraries and resources for web development.
 * Offline.js Every app goes offline: http://github.hubspot.com/offline/docs/welcome/
 * Inputs: http://leaverou.github.io/stretchy/
 * Simple and elegant component-based UI library: http://riotjs.com
+* Single Element CSS Spinners: https://projects.lukehaas.me/css-loaders/
+* A grid framework based on the flex display property: http://timothylong.com/kindling/
 
 ## Angular 2 Libraries and Resources
 
