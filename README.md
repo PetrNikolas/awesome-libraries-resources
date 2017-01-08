@@ -23,6 +23,10 @@ Awesome js/css libraries and resources for web development.
 * CSS styling of select element without JS, and using inline SVG: https://github.com/carloscabo/pure-css-select-style
 * A simple, accessible HTML5 media player: https://plyr.io/
 * Styleable select elements: http://github.hubspot.com/select/docs/welcome/
+* Bundle your scripts: https://webpack.js.org
+* A modern JavaScript utility library delivering modularity, performance & extras: https://lodash.com
+* Babel is a JavaScript compiler, next generation JavaScript, today: https://babeljs.io
+* A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org
 
 ## Angular 2 Libraries and Resources
 
