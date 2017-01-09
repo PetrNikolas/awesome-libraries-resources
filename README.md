@@ -41,6 +41,12 @@ Awesome js/css libraries and resources for web development.
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 
+## Vue.js Libraries and Resources
+
+* Vue components: https://vuecomponents.com/
+* Vue and Material Design: https://vuematerial.github.io/#/
+* A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
+
 ## Angular 2 Libraries and Resources
 
 * Popup: http://plnkr.co/edit/fe0kgemFBtmQOY31b4tw?p=preview
