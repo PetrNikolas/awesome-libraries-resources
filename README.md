@@ -4,6 +4,7 @@ Awesome js/css libraries and resources for web development.
 ## JS and CSS Libraries and Resources
 
 * The JavaScript JSON based Survey Library: http://surveyjs.org/
+* Frontends sources: https://uptodate.frontendrescue.org/
 * Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
 * Custom scrollbars: http://grsmto.github.io/simplebar/
 * A touch slideout navigation menu for your mobile web apps: https://slideout.js.org
