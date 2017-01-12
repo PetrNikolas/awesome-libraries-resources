@@ -3,7 +3,10 @@ Awesome js/css libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
 
+* The 100% correct way to do CSS breakpoints: https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.tmafddf9r
 * The JavaScript JSON based Survey Library: http://surveyjs.org/
+* Control responsive: http://ami.responsivedesign.is/?url=http://starterkit.meteor.com#
+* Control responsive and browser testing: https://browsersync.io/
 * Frontends sources: https://uptodate.frontendrescue.org/
 * Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
 * Custom scrollbars: http://grsmto.github.io/simplebar/
