@@ -3,6 +3,7 @@ Awesome js/css libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
 
+* Material Design Lite: https://getmdl.io/index.html
 * The 100% correct way to do CSS breakpoints: https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.tmafddf9r
 * The JavaScript JSON based Survey Library: http://surveyjs.org/
 * Control responsive: http://ami.responsivedesign.is/?url=http://starterkit.meteor.com#
