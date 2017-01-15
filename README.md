@@ -45,6 +45,11 @@ Awesome js/css libraries and resources for web development.
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 
+## React Libraries and Resources
+* RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
+* APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
+* A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
+
 ## Vue.js Libraries and Resources
 
 * Vue components: https://vuecomponents.com/
