@@ -3,6 +3,7 @@ Awesome js/css libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
 
+* From pixel to rem: https://quayzar.com/wordpress/pixels-to-rem-calculator/
 * Material Design Lite: https://getmdl.io/index.html
 * The 100% correct way to do CSS breakpoints: https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.tmafddf9r
 * The JavaScript JSON based Survey Library: http://surveyjs.org/
