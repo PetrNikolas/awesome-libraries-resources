@@ -4,6 +4,7 @@ Awesome js/css libraries and resources for web development.
 ## JS and CSS Libraries and Resources
 
 * Awesome Buttons: https://bttn.surge.sh/
+* Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
 * Simple browser dialogs: https://alertifyjs.org/
 * A simple and beautiful wiki for teams: http://matterwiki.com/
 * UI components for Elasticsearch: http://searchkit.co/
