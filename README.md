@@ -4,6 +4,13 @@ Awesome js/css libraries and resources for web development.
 ## JS and CSS Libraries and Resources
 
 * Awesome Buttons: https://bttn.surge.sh/
+* Datepicker: https://crsten.github.io/datepickk/
+* Building a Morphing Hamburger Menu with CSS: https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
+* Mobile online emulator: http://www.mobilephoneemulator.com/
+* Fela is a fast and modular library to handle styling in JavaScript. It is dynamic by design and renders your styles depending on your application state.: https://github.com/rofrischmann/fela
+* Iphone resolution: http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/
+* Apple products resolution: http://iosres.com/
+* 
 * Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
 * Simple browser dialogs: https://alertifyjs.org/
 * A simple and beautiful wiki for teams: http://matterwiki.com/
