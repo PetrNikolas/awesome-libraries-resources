@@ -4,6 +4,9 @@ Awesome js/css libraries and resources for web development.
 ## JS and CSS Libraries and Resources
 
 * Awesome Buttons: https://bttn.surge.sh/
+* Cross-browser style inputs: https://codepen.io/jestho/pen/WbRjay
+* Cross-browser style inputs: http://stackoverflow.com/questions/19145504/style-a-checkbox-in-firefox-remove-check-and-border
+* Cross-browser style inputs: https://www.everythingfrontend.com/posts/cross-browser-css3-image-free-custom-checkbox.html
 * Datepicker: https://crsten.github.io/datepickk/
 * Building a Morphing Hamburger Menu with CSS: https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 * Mobile online emulator: http://www.mobilephoneemulator.com/
