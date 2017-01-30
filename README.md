@@ -63,6 +63,9 @@ Awesome js/css libraries and resources for web development.
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 
+## Ruby and Ruby on Rails Libraries and Resources
+* Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
+
 ## React Libraries and Resources
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
 * RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
