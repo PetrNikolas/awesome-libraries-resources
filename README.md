@@ -83,9 +83,22 @@ Awesome js/css libraries and resources for web development.
 * Vue and Material Design: https://vuematerial.github.io/#/
 * A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
 
+## Typescript Resources
+
+* Quick start: https://www.typescriptlang.org/docs/tutorial.html
+* TypeScript Tutorial: https://www.tutorialspoint.com/typescript/index.htm
+* Getting Started with TypeScript: http://blog.teamtreehouse.com/getting-started-typescript
+* Getting Started with TypeScript: https://code.tutsplus.com/tutorials/getting-started-with-typescript--net-28890
+* TypeScript Tutorial: https://www.youtube.com/watch?v=-PR_XqW9JJU
+* The repository for high quality TypeScript type definitions: http://definitelytyped.org/directory/learn.html
+* Learn TypeScript in 30 Minutes: http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
+* TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E
+* (CZ) MS Fest 2013 Praha: Typescript - konečně vás přestane JavaScript štvát (Tomáš Herceg): https://www.youtube.com/watch?v=fZsdEiTgv6o
+
 ## Angular 2 Libraries and Resources
 
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
+* Getting Started with Angular 2 using TypeScript: https://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 * Create angular 2 page: https://houssein.me/angular2-hacker-news
 * Introduction to the Angular 2 CLI - Tutorial for Beginners: https://www.youtube.com/watch?v=wppBd-52LT0
 * Simple Angular 2 App With Angular CLI: https://www.youtube.com/watch?v=QMQbAoTLJX8
@@ -101,3 +114,4 @@ Awesome js/css libraries and resources for web development.
 * Angular 2 UI Framework: http://www.angulartypescript.com/angular-2-ui-framework/
 * Angular 2 Starter Kit: http://angular2starterkit.com/
 * Angular Material: https://material.angular.io/
+* LEARN BY EXAMPLE - ANGULARJS, NODEJS, AND TYPESCRIPT: http://www.software-architects.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript
