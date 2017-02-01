@@ -3,6 +3,7 @@ Awesome js/css libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
 
+* A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * Awesome Buttons: https://bttn.surge.sh/
 * Cross-browser style inputs: https://codepen.io/jestho/pen/WbRjay
 * Cross-browser style inputs: http://stackoverflow.com/questions/19145504/style-a-checkbox-in-firefox-remove-check-and-border
