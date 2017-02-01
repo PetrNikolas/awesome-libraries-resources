@@ -80,6 +80,7 @@ Awesome js/css libraries and resources for web development.
 
 ## Angular 2 Libraries and Resources
 
+* Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
 * Popup: http://plnkr.co/edit/fe0kgemFBtmQOY31b4tw?p=preview
 * ngif and click: http://jilles.me/ng-click-and-ng-if-in-angular2/
 * ngif: http://lishman.io/angular-2-built-in-directives
