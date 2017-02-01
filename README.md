@@ -74,6 +74,11 @@ Awesome js/css libraries and resources for web development.
 
 ## Vue.js Libraries and Resources
 
+* Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
+* A Desktop UI Library: http://element.eleme.io/#/en-US
+* lightweight yet flexible model based vue validation: http://simple-vue-validator.maijin.info/
+* vue-material-datepicker: https://github.com/bastienGranger/vue-material-datepicker
+* vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.: https://santiblanko.github.io/vue-instant/#/
 * Vue components: https://vuecomponents.com/
 * Vue and Material Design: https://vuematerial.github.io/#/
 * A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
@@ -81,6 +86,13 @@ Awesome js/css libraries and resources for web development.
 ## Angular 2 Libraries and Resources
 
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
+* Create angular 2 page: https://houssein.me/angular2-hacker-news
+* Introduction to the Angular 2 CLI - Tutorial for Beginners: https://www.youtube.com/watch?v=wppBd-52LT0
+* Simple Angular 2 App With Angular CLI: https://www.youtube.com/watch?v=QMQbAoTLJX8
+* Angular 2 CLI (Command Line Interface) — Introduction: https://medium.com/codingthesmartway-com-blog/angular-2-cli-command-line-interface-introduction-841e3e8092bf#.itup92wc4
+* How to Create Angular 2 Application using Angular 2 CLI: http://tektutorialshub.com/create-first-angular-2-application/
+* Angular 2 Tutorial: Create a CRUD App with Angular CLI: https://www.sitepoint.com/angular-2-tutorial/
+* Use the Angular CLI For Faster Angular 2 Projects: https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects
 * Popup: http://plnkr.co/edit/fe0kgemFBtmQOY31b4tw?p=preview
 * ngif and click: http://jilles.me/ng-click-and-ng-if-in-angular2/
 * ngif: http://lishman.io/angular-2-built-in-directives
