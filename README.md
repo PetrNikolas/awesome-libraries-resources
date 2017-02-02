@@ -63,12 +63,14 @@ Awesome js/css libraries and resources for web development.
 * Single Element CSS Spinners: https://projects.lukehaas.me/css-loaders/
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
+* mobile friendly css framework: http://chuckcss.io/
 
 ## Ruby and Ruby on Rails Libraries and Resources
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 
 ## React Libraries and Resources
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
+* Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
 * RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
 * APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
 * A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
@@ -82,6 +84,11 @@ Awesome js/css libraries and resources for web development.
 * vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.: https://santiblanko.github.io/vue-instant/#/
 * Vue components: https://vuecomponents.com/
 * Vue and Material Design: https://vuematerial.github.io/#/
+* A lightweight collection of essential UI components written with Vue.js and inspired by Material Design: https://josephuspaye.github.io/Keen-UI/?ref=madewithvuejs#/ui-alert
+* Augmenting a Ruby on Rails App with Vue.js: https://ksylvest.com/posts/2016-09-07/augmenting-a-ruby-on-rails-app-with-vue-js
+* Vue.js and Rails: https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/
+* A simple asset-pipeline wrapper for Vue.js by Evan You: https://github.com/adambutler/vuejs-rails
+* Intro to Vue.js: Rendering, Directives, and Events: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 * A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
 
 ## Typescript Resources
