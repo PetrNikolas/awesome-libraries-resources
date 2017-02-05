@@ -106,6 +106,7 @@ Awesome js/css libraries and resources for web development.
 ## Angular 2 Libraries and Resources
 
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
+* Routing: https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router
 * Resources: https://github.com/AngularClass/awesome-angular2
 * Ecosystem: http://slides.com/magyarsrac/universal-angular-intro-1-1#/
 * Angular CLI complete guide: https://www.sitepoint.com/ultimate-angular-cli-reference/
