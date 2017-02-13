@@ -6,6 +6,7 @@ Awesome js/css libraries and resources for web development.
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * Awesome Buttons: https://bttn.surge.sh/
 * Cross-browser style inputs: https://codepen.io/jestho/pen/WbRjay
+* Menu: https://balzss.github.io/luxbar/
 * Cross-browser style inputs: http://stackoverflow.com/questions/19145504/style-a-checkbox-in-firefox-remove-check-and-border
 * Cross-browser style inputs: https://www.everythingfrontend.com/posts/cross-browser-css3-image-free-custom-checkbox.html
 * Datepicker: https://crsten.github.io/datepickk/
