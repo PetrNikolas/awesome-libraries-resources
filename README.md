@@ -66,6 +66,9 @@ Awesome js/css libraries and resources for web development.
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 * mobile friendly css framework: http://chuckcss.io/
 
+## ASP.NET CORE and REACT Libraries and Resources
+* Setup: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
+
 ## Ruby and Ruby on Rails Libraries and Resources
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 
