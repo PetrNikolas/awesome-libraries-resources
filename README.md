@@ -15,7 +15,6 @@ Awesome js/css libraries and resources for web development.
 * Fela is a fast and modular library to handle styling in JavaScript. It is dynamic by design and renders your styles depending on your application state.: https://github.com/rofrischmann/fela
 * Iphone resolution: http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/
 * Apple products resolution: http://iosres.com/
-* 
 * Lightweight and simple carousel with no dependencies: https://pawelgrzybek.com/siema/
 * Simple browser dialogs: https://alertifyjs.org/
 * A simple and beautiful wiki for teams: http://matterwiki.com/
@@ -109,6 +108,7 @@ Awesome js/css libraries and resources for web development.
 
 ## Angular 2 Libraries and Resources
 
+* Child routing: http://onehungrymind.com/named-router-outlets-in-angular-2/
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
 * Angular cli commands: https://www.sitepoint.com/ultimate-angular-cli-reference/
 * Routing: https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router
