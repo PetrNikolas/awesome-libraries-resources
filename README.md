@@ -110,6 +110,11 @@ Awesome js/css libraries and resources for web development.
 
 * Child routing: http://onehungrymind.com/named-router-outlets-in-angular-2/
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
+* Animations: https://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html
+* Animations: https://www.npmjs.com/package/ng2-page-transition
+* Animations: https://angular.io/docs/ts/latest/guide/animations.html
+* Animations: https://github.com/bbottema/ng2-simple-page-scroll
+* Animations: https://npmdaily.com/pkg/ng2-scrollimate
 * Angular cli commands: https://www.sitepoint.com/ultimate-angular-cli-reference/
 * Routing: https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router
 * Resources: https://github.com/AngularClass/awesome-angular2
