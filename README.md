@@ -65,13 +65,12 @@ Awesome js/css libraries and resources for web development.
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 * mobile friendly css framework: http://chuckcss.io/
 
-## ASP.NET CORE and REACT Libraries and Resources
-* Setup: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
-
 ## Ruby and Ruby on Rails Libraries and Resources
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 
 ## React Libraries and Resources
+
+* Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
 * Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
 * RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
@@ -108,6 +107,7 @@ Awesome js/css libraries and resources for web development.
 
 ## Angular 2 Libraries and Resources
 
+* Setup Angular and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * Child routing: http://onehungrymind.com/named-router-outlets-in-angular-2/
 * Deploy: https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.b71z1zjr8
 * Animations: https://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html
