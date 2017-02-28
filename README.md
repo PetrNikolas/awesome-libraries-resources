@@ -108,6 +108,7 @@ Awesome js/css libraries and resources for web development.
 ## Angular 2 Libraries and Resources
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
+* Authentication to an Angular 2: https://github.com/auth0-blog/angular2-authentication-sample
 * Hash routing: https://github.com/angular/angular/issues/6595
 * Setup Angular and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * Child routing: http://onehungrymind.com/named-router-outlets-in-angular-2/
