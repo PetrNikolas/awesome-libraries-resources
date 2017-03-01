@@ -109,6 +109,9 @@ Awesome js/css libraries and resources for web development.
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
 * Authentication to an Angular 2: https://github.com/auth0-blog/angular2-authentication-sample
+* Simple authentication: http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
+* PROTECTING ROUTES USING GUARDS IN ANGULAR: https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
+* Angular 2+ and Ruby on Rails user authentication: https://medium.com/@avatsaev/angular-2-and-ruby-on-rails-user-authentication-fde230ddaed8#.nf9zw23p6
 * Hash routing: https://github.com/angular/angular/issues/6595
 * Setup Angular and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * Child routing: http://onehungrymind.com/named-router-outlets-in-angular-2/
