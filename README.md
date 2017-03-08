@@ -4,7 +4,12 @@ Awesome js/css libraries and resources for web development.
 ## JS and CSS Libraries and Resources
 
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
+* Simple grid system: http://simplegrid.io/
 * Awesome Buttons: https://bttn.surge.sh/
+* A JavaScript library to make navigation menus activate the item based on currently in view section.: https://leocs.me/menuspy/
+* Animate On Scroll Library: https://michalsnik.github.io/aos/
+* A tiny async loader / dependency manager for modern browsers: https://github.com/muicss/loadjs
+* CSS minifier with structural optimizations: https://github.com/css/csso
 * Cross-browser style inputs: https://codepen.io/jestho/pen/WbRjay
 * Menu: https://balzss.github.io/luxbar/
 * Cross-browser style inputs: http://stackoverflow.com/questions/19145504/style-a-checkbox-in-firefox-remove-check-and-border
@@ -93,6 +98,7 @@ Awesome js/css libraries and resources for web development.
 * A simple asset-pipeline wrapper for Vue.js by Evan You: https://github.com/adambutler/vuejs-rails
 * Intro to Vue.js: Rendering, Directives, and Events: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 * A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
+* Simple, lightweight model-based validation for Vue.js 2.0: https://monterail.github.io/vuelidate/
 
 ## Typescript Resources
 
