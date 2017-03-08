@@ -81,6 +81,7 @@ Awesome js/css libraries and resources for web development.
 
 * Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 * A Desktop UI Library: http://element.eleme.io/#/en-US
+* CMS: https://pagekit.com/
 * lightweight yet flexible model based vue validation: http://simple-vue-validator.maijin.info/
 * vue-material-datepicker: https://github.com/bastienGranger/vue-material-datepicker
 * vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.: https://santiblanko.github.io/vue-instant/#/
