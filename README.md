@@ -1,5 +1,5 @@
 # Awesome Libraries and Resources
-Awesome js/css libraries and resources for web development.
+Awesome js/css and other libraries and resources for web development.
 
 ## JS and CSS Libraries and Resources
 
@@ -72,7 +72,20 @@ Awesome js/css libraries and resources for web development.
 * mobile friendly css framework: http://chuckcss.io/
 
 ## Ruby and Ruby on Rails Libraries and Resources
+
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
+
+## Elixir and Phoenix Libraries and Resources
+
+* Elixir lang: http://elixir-lang.org/
+* Phoenix framework: http://www.phoenixframework.org/
+* Build and test a blazing fast JSON API with Phoenix, an Elixir framework: https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api
+* Elixir and Phoenix: The Future of Web APIs and Apps?: http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/
+
+## Elm Libraries and Resources
+
+* Elm lang: http://elm-lang.org/
+* UI library for making web applications with Elm!: http://elm-ui.info/
 
 ## React Libraries and Resources
 
