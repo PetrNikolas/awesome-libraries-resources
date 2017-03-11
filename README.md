@@ -100,6 +100,7 @@ Awesome js/css and other libraries and resources for web development.
 
 * Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 * A Desktop UI Library: http://element.eleme.io/#/en-US
+* Routes: https://forum.vuejs.org/t/there-is-no-component-problem-with-router-view-rendering-with-vue-2-0/1162/4
 * CMS: https://pagekit.com/
 * lightweight yet flexible model based vue validation: http://simple-vue-validator.maijin.info/
 * vue-material-datepicker: https://github.com/bastienGranger/vue-material-datepicker
