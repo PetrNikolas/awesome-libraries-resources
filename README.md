@@ -70,6 +70,7 @@ Awesome js/css and other libraries and resources for web development.
 * A grid framework based on the flex display property: http://timothylong.com/kindling/
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 * mobile friendly css framework: http://chuckcss.io/
+* Slide Nav Example: https://qmixi.github.io/slide-nav/
 
 ## Ruby and Ruby on Rails Libraries and Resources
 
@@ -87,10 +88,16 @@ Awesome js/css and other libraries and resources for web development.
 * Elm lang: http://elm-lang.org/
 * UI library for making web applications with Elm!: http://elm-ui.info/
 
+## Reason Librariers and Resources
+
+* Reason: https://facebook.github.io/reason/
+
 ## React Libraries and Resources
 
 * Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
+* Learn React & Redux With Cabin: http://cabin.getstream.io
+* Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
 * Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
 * RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
 * APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
