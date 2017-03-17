@@ -9,12 +9,14 @@ Awesome js/css and other libraries and resources for web development.
 * I need JS lib .. : http://microjs.com/#
 * Awesome Buttons: https://bttn.surge.sh/
 * A JavaScript library to make navigation menus activate the item based on currently in view section.: https://leocs.me/menuspy/
+* Statically typed programming language for the JVM, Android and the browser: http://kotlinlang.org/
 * Animate On Scroll Library: https://michalsnik.github.io/aos/
 * A tiny async loader / dependency manager for modern browsers: https://github.com/muicss/loadjs
 * CSS minifier with structural optimizations: https://github.com/css/csso
 * Cross-browser style inputs: https://codepen.io/jestho/pen/WbRjay
 * Menu: https://balzss.github.io/luxbar/
 * Cross-browser style inputs: http://stackoverflow.com/questions/19145504/style-a-checkbox-in-firefox-remove-check-and-border
+* a small strongly typed programming language that compiles to JavaScript: http://www.purescript.org/
 * Cross-browser style inputs: https://www.everythingfrontend.com/posts/cross-browser-css3-image-free-custom-checkbox.html
 * Datepicker: https://crsten.github.io/datepickk/
 * Building a Morphing Hamburger Menu with CSS: https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
