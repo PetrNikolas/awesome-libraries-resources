@@ -80,6 +80,7 @@ Awesome js/css and other libraries and resources for web development.
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 * Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 * React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
+* React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
 
 ## Elixir and Phoenix Libraries and Resources
 
