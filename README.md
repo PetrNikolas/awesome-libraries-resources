@@ -79,6 +79,7 @@ Awesome js/css and other libraries and resources for web development.
 
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 * Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+* React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
 
 ## Elixir and Phoenix Libraries and Resources
 
@@ -106,6 +107,7 @@ Awesome js/css and other libraries and resources for web development.
 * RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
 * APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
 * A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
+* StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
 
 ## Vue.js Libraries and Resources
 
