@@ -99,8 +99,10 @@ Awesome js/css and other libraries and resources for web development.
 
 ## React Libraries and Resources
 
+* JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
 * Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
+* React and Express: https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.eo1h7fw29
 * Learn React & Redux With Cabin: http://cabin.getstream.io
 * Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
 * Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
