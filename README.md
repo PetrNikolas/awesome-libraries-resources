@@ -146,6 +146,8 @@ Awesome js/css and other libraries and resources for web development.
 ## Angular 2 Libraries and Resources
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
+* How to implement stateless authentication: http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html
+* Persisting user authentication with BehaviorSubject in Angular: https://netbasal.com/angular-2-persist-your-login-status-with-behaviorsubject-45da9ec43243
 * Authentication to an Angular 2: https://github.com/auth0-blog/angular2-authentication-sample
 * Simple authentication: http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
 * PROTECTING ROUTES USING GUARDS IN ANGULAR: https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
