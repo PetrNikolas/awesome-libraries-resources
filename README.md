@@ -152,6 +152,11 @@ Awesome js/css and other libraries and resources for web development.
 * Lightweight drag to scroll directive for Angular2: https://github.com/bfwg/angular2-drag-scroll
 * Cool angular2 wrapper for LocalStorage and SessionStorage: https://github.com/Hacklone/angular2-cool-storage#readme
 * How does Angular teach you to be a better a Software Engineer: https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40
+* Angular 2 slide show: https://github.com/marek1/angular-2-slide-show
+* Responsive carousel: https://embed.plnkr.co/VKLszgqJtobyVruBj3Op/
+* Carousel: https://embed.plnkr.co/ScE0uqfd0ZvL6T9j1XjL/
+* Page Slider: https://www.npmjs.com/package/ng2-page-slider
+* Angular 2 module that implements Loaders.css spinners: https://github.com/moff/angular2-loaders-css
 * How to implement stateless authentication: http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html
 * Persisting user authentication with BehaviorSubject in Angular: https://netbasal.com/angular-2-persist-your-login-status-with-behaviorsubject-45da9ec43243
 * Authentication to an Angular 2: https://github.com/auth0-blog/angular2-authentication-sample
