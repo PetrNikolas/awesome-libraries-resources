@@ -42,6 +42,7 @@ Awesome js/css and other libraries and resources for web development.
 * The fast and capable dropdown library: http://github.hubspot.com/drop/docs/welcome/
 * Simple lightbox script without dependencies (not even jQuery): https://github.com/DxF5H/lightbox
 * Color generator: https://coolors.co/
+* Generate hashes from javascript objects in node and the browser: https://github.com/puleos/object-hash
 * Datetime picker: https://chmln.github.io/flatpickr/
 * Datetime picker: http://www.dematte.at/tinyDatePicker/
 * Range: https://rangetouch.com/
@@ -146,6 +147,7 @@ Awesome js/css and other libraries and resources for web development.
 ## Angular 2 Libraries and Resources
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
+* Cool angular2 wrapper for LocalStorage and SessionStorage: https://github.com/Hacklone/angular2-cool-storage#readme
 * How does Angular teach you to be a better a Software Engineer: https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40
 * How to implement stateless authentication: http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html
 * Persisting user authentication with BehaviorSubject in Angular: https://netbasal.com/angular-2-persist-your-login-status-with-behaviorsubject-45da9ec43243
