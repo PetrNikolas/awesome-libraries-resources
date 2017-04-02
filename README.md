@@ -144,9 +144,11 @@ Awesome js/css and other libraries and resources for web development.
 * TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E
 * (CZ) MS Fest 2013 Praha: Typescript - konečně vás přestane JavaScript štvát (Tomáš Herceg): https://www.youtube.com/watch?v=fZsdEiTgv6o
 
-## Angular 2 Libraries and Resources
+## Angular 2+ Libraries and Resources
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
+* Supercharge your Angular2 event handling: https://github.com/kryops/ng2-events#readme
+* Web analytics for AngularJS applications: http://angulartics.github.io/
 * Cool angular2 wrapper for LocalStorage and SessionStorage: https://github.com/Hacklone/angular2-cool-storage#readme
 * How does Angular teach you to be a better a Software Engineer: https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40
 * How to implement stateless authentication: http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html
