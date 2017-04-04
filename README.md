@@ -8,6 +8,7 @@ Awesome js/css and other libraries and resources for web development.
 * Simple grid system: http://simplegrid.io/
 * I need JS lib .. : http://microjs.com/#
 * Awesome Buttons: https://bttn.surge.sh/
+* Date formats: http://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
 * A JavaScript library to make navigation menus activate the item based on currently in view section.: https://leocs.me/menuspy/
 * Statically typed programming language for the JVM, Android and the browser: http://kotlinlang.org/
 * Animate On Scroll Library: https://michalsnik.github.io/aos/
