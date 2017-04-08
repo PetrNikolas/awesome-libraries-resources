@@ -110,6 +110,7 @@ Awesome js/css and other libraries and resources for web development.
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
 * Using create-react-app with hapi.js: https://medium.com/@notrab/using-create-react-app-with-hapi-js-8f4ef3dcd311
 * Getting started with create-react-app, Redux, React Router & Redux Thunk: https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
+* Thunk middleware for Redux: https://github.com/gaearon/redux-thunk
 * React and Express: https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.eo1h7fw29
 * Learn React & Redux With Cabin: http://cabin.getstream.io
 * Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
