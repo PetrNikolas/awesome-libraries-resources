@@ -10,6 +10,9 @@ Awesome js/css and other libraries and resources for web development.
 * Awesome Buttons: https://bttn.surge.sh/
 * Date formats: http://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
 * A JavaScript library to make navigation menus activate the item based on currently in view section.: https://leocs.me/menuspy/
+* Opensource projects from Google: https://opensource.google.com/projects/list/featured
+* Pure CSS responsive timeline mockup: https://flouthoc.github.io/timenil/
+* 100+ Free resources for learning Full Stack Web Development: https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/blob/master/README.md
 * Statically typed programming language for the JVM, Android and the browser: http://kotlinlang.org/
 * Animate On Scroll Library: https://michalsnik.github.io/aos/
 * A tiny async loader / dependency manager for modern browsers: https://github.com/muicss/loadjs
@@ -105,6 +108,8 @@ Awesome js/css and other libraries and resources for web development.
 * JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
 * Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
+* Using create-react-app with hapi.js: https://medium.com/@notrab/using-create-react-app-with-hapi-js-8f4ef3dcd311
+* Getting started with create-react-app, Redux, React Router & Redux Thunk: https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
 * React and Express: https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.eo1h7fw29
 * Learn React & Redux With Cabin: http://cabin.getstream.io
 * Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
