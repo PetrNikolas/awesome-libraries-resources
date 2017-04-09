@@ -80,66 +80,6 @@ Awesome js/css and other libraries and resources for web development.
 * mobile friendly css framework: http://chuckcss.io/
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
 
-## Ruby and Ruby on Rails Libraries and Resources
-
-* Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
-* Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
-* React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
-* React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
-
-## Elixir and Phoenix Libraries and Resources
-
-* Elixir lang: http://elixir-lang.org/
-* Phoenix framework: http://www.phoenixframework.org/
-* Build and test a blazing fast JSON API with Phoenix, an Elixir framework: https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api
-* Elixir and Phoenix: The Future of Web APIs and Apps?: http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/
-
-## Elm Libraries and Resources
-
-* Elm lang: http://elm-lang.org/
-* UI library for making web applications with Elm!: http://elm-ui.info/
-
-## Reason Librariers and Resources
-
-* Reason: https://facebook.github.io/reason/
-
-## React Libraries and Resources
-
-* JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
-* Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
-* React Starter Kit: http://www.electrode.io/docs/get_started.html
-* "create-react-app" and the future of creating React applications: https://tylermcginnis.com/create-react-app-and-the-future-of-creating-react-applications/
-* Using create-react-app with hapi.js: https://medium.com/@notrab/using-create-react-app-with-hapi-js-8f4ef3dcd311
-* Getting started with create-react-app, Redux, React Router & Redux Thunk: https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
-* Thunk middleware for Redux: https://github.com/gaearon/redux-thunk
-* React and Express: https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.eo1h7fw29
-* Learn React & Redux With Cabin: http://cabin.getstream.io
-* Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
-* Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
-* RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
-* APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
-* A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
-* StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
-
-## Vue.js Libraries and Resources
-
-* Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
-* A Desktop UI Library: http://element.eleme.io/#/en-US
-* Routes: https://forum.vuejs.org/t/there-is-no-component-problem-with-router-view-rendering-with-vue-2-0/1162/4
-* CMS: https://pagekit.com/
-* lightweight yet flexible model based vue validation: http://simple-vue-validator.maijin.info/
-* vue-material-datepicker: https://github.com/bastienGranger/vue-material-datepicker
-* vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.: https://santiblanko.github.io/vue-instant/#/
-* Vue components: https://vuecomponents.com/
-* Vue and Material Design: https://vuematerial.github.io/#/
-* A lightweight collection of essential UI components written with Vue.js and inspired by Material Design: https://josephuspaye.github.io/Keen-UI/?ref=madewithvuejs#/ui-alert
-* Augmenting a Ruby on Rails App with Vue.js: https://ksylvest.com/posts/2016-09-07/augmenting-a-ruby-on-rails-app-with-vue-js
-* Vue.js and Rails: https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/
-* A simple asset-pipeline wrapper for Vue.js by Evan You: https://github.com/adambutler/vuejs-rails
-* Intro to Vue.js: Rendering, Directives, and Events: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
-* A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
-* Simple, lightweight model-based validation for Vue.js 2.0: https://monterail.github.io/vuelidate/
-
 ## Typescript Resources
 
 * Quick start: https://www.typescriptlang.org/docs/tutorial.html
@@ -202,3 +142,63 @@ Awesome js/css and other libraries and resources for web development.
 * Angular 2 Starter Kit: http://angular2starterkit.com/
 * Angular Material: https://material.angular.io/
 * LEARN BY EXAMPLE - ANGULARJS, NODEJS, AND TYPESCRIPT: http://www.software-architects.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript
+
+## Ruby and Ruby on Rails Libraries and Resources
+
+* Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
+* Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
+* React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
+* React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
+
+## Elixir and Phoenix Libraries and Resources
+
+* Elixir lang: http://elixir-lang.org/
+* Phoenix framework: http://www.phoenixframework.org/
+* Build and test a blazing fast JSON API with Phoenix, an Elixir framework: https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api
+* Elixir and Phoenix: The Future of Web APIs and Apps?: http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/
+
+## Elm Libraries and Resources
+
+* Elm lang: http://elm-lang.org/
+* UI library for making web applications with Elm!: http://elm-ui.info/
+
+## Reason Librariers and Resources
+
+* Reason: https://facebook.github.io/reason/
+
+## React Libraries and Resources
+
+* JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
+* Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
+* React Starter Kit: http://www.electrode.io/docs/get_started.html
+* "create-react-app" and the future of creating React applications: https://tylermcginnis.com/create-react-app-and-the-future-of-creating-react-applications/
+* Using create-react-app with hapi.js: https://medium.com/@notrab/using-create-react-app-with-hapi-js-8f4ef3dcd311
+* Getting started with create-react-app, Redux, React Router & Redux Thunk: https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
+* Thunk middleware for Redux: https://github.com/gaearon/redux-thunk
+* React and Express: https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d#.eo1h7fw29
+* Learn React & Redux With Cabin: http://cabin.getstream.io
+* Show/hide the contents of a password field: https://github.com/zakangelle/react-password-mask
+* Transform plain text into dynamic blogs and websites using React.js: https://github.com/gatsbyjs/gatsby
+* RICH TEXT EDITOR FRAMEWORK FOR REACT: https://facebook.github.io/draft-js/
+* APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
+* A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
+* StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
+
+## Vue.js Libraries and Resources
+
+* Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
+* A Desktop UI Library: http://element.eleme.io/#/en-US
+* Routes: https://forum.vuejs.org/t/there-is-no-component-problem-with-router-view-rendering-with-vue-2-0/1162/4
+* CMS: https://pagekit.com/
+* lightweight yet flexible model based vue validation: http://simple-vue-validator.maijin.info/
+* vue-material-datepicker: https://github.com/bastienGranger/vue-material-datepicker
+* vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 application.: https://santiblanko.github.io/vue-instant/#/
+* Vue components: https://vuecomponents.com/
+* Vue and Material Design: https://vuematerial.github.io/#/
+* A lightweight collection of essential UI components written with Vue.js and inspired by Material Design: https://josephuspaye.github.io/Keen-UI/?ref=madewithvuejs#/ui-alert
+* Augmenting a Ruby on Rails App with Vue.js: https://ksylvest.com/posts/2016-09-07/augmenting-a-ruby-on-rails-app-with-vue-js
+* Vue.js and Rails: https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/
+* A simple asset-pipeline wrapper for Vue.js by Evan You: https://github.com/adambutler/vuejs-rails
+* Intro to Vue.js: Rendering, Directives, and Events: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
+* A curated list of awesome things related to Vue.js: https://github.com/vuejs/awesome-vue
+* Simple, lightweight model-based validation for Vue.js 2.0: https://monterail.github.io/vuelidate/
