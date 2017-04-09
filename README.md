@@ -108,6 +108,7 @@ Awesome js/css and other libraries and resources for web development.
 * JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
 * Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
 * React Starter Kit: http://www.electrode.io/docs/get_started.html
+* "create-react-app" and the future of creating React applications: https://tylermcginnis.com/create-react-app-and-the-future-of-creating-react-applications/
 * Using create-react-app with hapi.js: https://medium.com/@notrab/using-create-react-app-with-hapi-js-8f4ef3dcd311
 * Getting started with create-react-app, Redux, React Router & Redux Thunk: https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
 * Thunk middleware for Redux: https://github.com/gaearon/redux-thunk
