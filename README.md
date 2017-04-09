@@ -183,6 +183,7 @@ Awesome js/css and other libraries and resources for web development.
 * APPLICATION ARCHITECTURE FOR BUILDING USER INTERFACES: http://facebook.github.io/flux/
 * A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
 * StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
+* Adding Sass or Scss to Create-React-App: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 
 ## Vue.js Libraries and Resources
 
