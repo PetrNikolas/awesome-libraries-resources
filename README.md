@@ -142,6 +142,7 @@ Awesome js/css and other libraries and resources for web development.
 * Angular 2 Starter Kit: http://angular2starterkit.com/
 * Angular Material: https://material.angular.io/
 * LEARN BY EXAMPLE - ANGULARJS, NODEJS, AND TYPESCRIPT: http://www.software-architects.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript
+* Changing route doesn't scroll to top in the new page: https://github.com/angular/angular/issues/7791
 
 ## Ruby and Ruby on Rails Libraries and Resources
 
