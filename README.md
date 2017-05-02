@@ -82,6 +82,7 @@ Awesome libraries, articles and resources for web development.
 
 ## Webpack, build process, etc
 
+* Webpack plugins, etc.: https://www.npmjs.com/package/webpack
 * Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4348
 * Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4359
 
@@ -100,6 +101,7 @@ Awesome libraries, articles and resources for web development.
 ## Angular 2+
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
+* Building an Angular Application for Production: http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
 * Supercharge your Angular2 event handling: https://github.com/kryops/ng2-events#readme
 * Web analytics for AngularJS applications: http://angulartics.github.io/
 * Lightweight drag to scroll directive for Angular2: https://github.com/bfwg/angular2-drag-scroll
@@ -190,6 +192,8 @@ Awesome libraries, articles and resources for web development.
 * A STATIC TYPE CHECKER FOR JAVASCRIPT: https://flowtype.org/
 * StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
 * Adding Sass or Scss to Create-React-App: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+* Optimizing React + ES6 + Webpack Production Build: http://moduscreate.com/optimizing-react-es6-webpack-production-build/
+* Two Quick Ways To Reduce React App’s Size In Production: https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a
 
 ## Vue.js
 
