@@ -1,7 +1,7 @@
 # Awesome Libraries and Resources
-Awesome js/css and other libraries and resources for web development.
+Awesome libraries, articles and resources for web development.
 
-## JS and CSS Libraries and Resources
+## JS and CSS
 
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
@@ -80,7 +80,7 @@ Awesome js/css and other libraries and resources for web development.
 * mobile friendly css framework: http://chuckcss.io/
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
 
-## Typescript Resources
+## Typescript
 
 * Quick start: https://www.typescriptlang.org/docs/tutorial.html
 * TypeScript Tutorial: https://www.tutorialspoint.com/typescript/index.htm
@@ -92,7 +92,7 @@ Awesome js/css and other libraries and resources for web development.
 * TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E
 * (CZ) MS Fest 2013 Praha: Typescript - konečně vás přestane JavaScript štvát (Tomáš Herceg): https://www.youtube.com/watch?v=fZsdEiTgv6o
 
-## Angular 2+ Libraries and Resources
+## Angular 2+
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
 * Supercharge your Angular2 event handling: https://github.com/kryops/ng2-events#readme
@@ -144,30 +144,30 @@ Awesome js/css and other libraries and resources for web development.
 * LEARN BY EXAMPLE - ANGULARJS, NODEJS, AND TYPESCRIPT: http://www.software-architects.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript
 * Changing route doesn't scroll to top in the new page: https://github.com/angular/angular/issues/7791
 
-## Ruby and Ruby on Rails Libraries and Resources
+## Ruby and Ruby on Rails
 
 * Error with capybara gem: https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit#os-x-mavericks-109-and-mountain-lion-108
 * Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 * React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
 * React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
 
-## Elixir and Phoenix Libraries and Resources
+## Elixir and Phoenix
 
 * Elixir lang: http://elixir-lang.org/
 * Phoenix framework: http://www.phoenixframework.org/
 * Build and test a blazing fast JSON API with Phoenix, an Elixir framework: https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api
 * Elixir and Phoenix: The Future of Web APIs and Apps?: http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/
 
-## Elm Libraries and Resources
+## Elm
 
 * Elm lang: http://elm-lang.org/
 * UI library for making web applications with Elm!: http://elm-ui.info/
 
-## Reason Librariers and Resources
+## Reason
 
 * Reason: https://facebook.github.io/reason/
 
-## React Libraries and Resources
+## React
 
 * JAVASCRIPT DEVELOPMENT SYSTEM: http://www.getroc.org/
 * Setup React and Dotnet: http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/
@@ -186,7 +186,7 @@ Awesome js/css and other libraries and resources for web development.
 * StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL: http://starhack.it/
 * Adding Sass or Scss to Create-React-App: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 
-## Vue.js Libraries and Resources
+## Vue.js
 
 * Introduction to Vue: https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 * A Desktop UI Library: http://element.eleme.io/#/en-US
