@@ -80,6 +80,11 @@ Awesome libraries, articles and resources for web development.
 * mobile friendly css framework: http://chuckcss.io/
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
 
+## Webpack, build process, etc
+
+* Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4348
+* Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4359
+
 ## Typescript
 
 * Quick start: https://www.typescriptlang.org/docs/tutorial.html
