@@ -167,6 +167,7 @@ Awesome libraries, articles and resources for web development.
 * Elixir School: https://elixirschool.com
 * PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE: https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe/?utm_content=bufferbf422&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * Introducing ReactPhoenix - Render React.js components in Phoenix views: http://geoffreylessel.com/2017/introducing-react-phoenix/?utm_content=buffer8a8e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* Serving a Bare Bones Angular 2 App from Phoenix: https://medium.com/@zkayser/serving-a-bare-bones-angular-2-app-from-phoenix-d3f9d8ad52e5
 
 ## Elm
 
