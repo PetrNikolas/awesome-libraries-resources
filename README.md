@@ -164,6 +164,9 @@ Awesome libraries, articles and resources for web development.
 * Phoenix framework: http://www.phoenixframework.org/
 * Build and test a blazing fast JSON API with Phoenix, an Elixir framework: https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api
 * Elixir and Phoenix: The Future of Web APIs and Apps?: http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/
+* Elixir School: https://elixirschool.com
+* PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE: https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe/?utm_content=bufferbf422&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* Introducing ReactPhoenix - Render React.js components in Phoenix views: http://geoffreylessel.com/2017/introducing-react-phoenix/?utm_content=buffer8a8e0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ## Elm
 
