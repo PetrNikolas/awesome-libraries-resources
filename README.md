@@ -152,6 +152,7 @@ Awesome libraries, articles and resources for web development.
 * Changing route doesn't scroll to top in the new page: https://github.com/angular/angular/issues/7791
 * The internationalization (i18n) library for Angular 2+: https://github.com/ngx-translate/core
 * A loader for ngx-translate that loads translations with http calls: https://github.com/ngx-translate/http-loader
+* Translate app example: https://plnkr.co/edit/JEXgj8WcISYGtDg75VoR?p=preview
 
 ## Ruby and Ruby on Rails
 
