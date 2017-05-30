@@ -1,6 +1,11 @@
 # Awesome Libraries and Resources
 Awesome libraries, articles and resources for web development.
 
+## Online tools
+
+* Online image optimizer: http://optimizilla.com/
+* Compress and optimize your images: https://compressor.io/
+
 ## JS and CSS
 
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
