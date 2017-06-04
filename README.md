@@ -183,6 +183,12 @@ Awesome libraries, articles and resources for web development.
 
 * Elm lang: http://elm-lang.org/
 * UI library for making web applications with Elm!: http://elm-ui.info/
+* Elm - A Front End Language with Style: https://thoughtbot.com/upcase/videos/elm-a-front-end-language-with-style
+* Elm: https://egghead.io/technologies/elm
+* Awesome Elm: https://github.com/isRuslan/awesome-elm
+* Elm Tutorial: https://www.elm-tutorial.org/en/
+* Elm webpack starter: https://github.oldjpg.com/repository/48860215
+* From JavaScript to Elm: A Blissful Journey: https://kevgathuku.me/2017/04/27/from-javascript-to-elm-a-blissful-journey/
 
 ## Reason
 
