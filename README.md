@@ -12,6 +12,7 @@ Awesome libraries, articles and resources for web development.
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
 * Simple grid system: http://simplegrid.io/
 * I need JS lib .. : http://microjs.com/#
+* A pure CSS responsive navigation menu: https://github.com/micjamking/navigataur
 * Awesome Buttons: https://bttn.surge.sh/
 * Date formats: http://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
 * A JavaScript library to make navigation menus activate the item based on currently in view section.: https://leocs.me/menuspy/
