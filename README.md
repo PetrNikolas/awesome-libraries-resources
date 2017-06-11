@@ -13,6 +13,8 @@ Awesome libraries, articles and resources for web development.
 * Simple grid system: http://simplegrid.io/
 * Slider: https://vadimbogomazov.github.io/CrystalSlider/
 * Modal windows: http://madscript.com/boron/
+* Simple, elegant content placeholder: https://chalarangelo.github.io/mocka/
+* t - s c r o l l: http://t-scroll.com
 * Gooey Menu: https://codepen.io/lbebber/pen/rawQKR
 * Simple & Modern RichText Editor: https://dphans.github.io/Editor/demo/
 * Sun editor: http://suneditor.com/sample/html/index.html
@@ -92,6 +94,7 @@ Awesome libraries, articles and resources for web development.
 * A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box: http://danmalarkey.github.io/schema/index.html
 * mobile friendly css framework: http://chuckcss.io/
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
+* Build a Style Guide Straight from Sass: https://css-tricks.com/build-style-guide-straight-sass/
 
 ## Webpack, build process, etc
 
@@ -115,6 +118,7 @@ Awesome libraries, articles and resources for web development.
 
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
 * Building an Angular Application for Production: http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
+* Connecting Angular 2 to a Phoenix API: https://medium.com/@Oxyrus/connecting-angular-2-to-a-phoenix-api-75ede7f58bdf
 * Supercharge your Angular2 event handling: https://github.com/kryops/ng2-events#readme
 * Web analytics for AngularJS applications: http://angulartics.github.io/
 * Lightweight drag to scroll directive for Angular2: https://github.com/bfwg/angular2-drag-scroll
@@ -166,6 +170,10 @@ Awesome libraries, articles and resources for web development.
 * The internationalization (i18n) library for Angular 2+: https://github.com/ngx-translate/core
 * A loader for ngx-translate that loads translations with http calls: https://github.com/ngx-translate/http-loader
 * Translate app example: https://plnkr.co/edit/JEXgj8WcISYGtDg75VoR?p=preview
+* Angular architecture patterns: https://medium.com/netmedia/angular-architecture-patterns-detailed-project-architecture-27bda0334f16
+* Angular Model Pattern: https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
+* The Guide to Building Quality Angular 2+ Components: https://blog.wishtack.com/2017/05/05/the-guide-to-building-quality-angular-2-components/
+* NgUpgrade with Closure Compiler: http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-closure-compiler
 
 ## Ruby and Ruby on Rails
 
