@@ -11,6 +11,13 @@ Awesome libraries, articles and resources for web development.
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
 * Simple grid system: http://simplegrid.io/
+* Slider: https://vadimbogomazov.github.io/CrystalSlider/
+* Modal windows: http://madscript.com/boron/
+* Gooey Menu: https://codepen.io/lbebber/pen/rawQKR
+* Simple & Modern RichText Editor: https://dphans.github.io/Editor/demo/
+* Sun editor: http://suneditor.com/sample/html/index.html
+* Lightweight, awesome, vanilla JS image cropper: https://jamesssooi.github.io/Croppr.js/
+* A tool for making JavaScript code run faster: https://prepack.io
 * I need JS lib .. : http://microjs.com/#
 * A pure CSS responsive navigation menu: https://github.com/micjamking/navigataur
 * Awesome Buttons: https://bttn.surge.sh/
