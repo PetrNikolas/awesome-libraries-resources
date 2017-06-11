@@ -13,6 +13,8 @@ Awesome libraries, articles and resources for web development.
 * Simple grid system: http://simplegrid.io/
 * Slider: https://vadimbogomazov.github.io/CrystalSlider/
 * Modal windows: http://madscript.com/boron/
+* Burger - Minimal, fullscreen nav: https://codepen.io/mblode/pen/qEGWwB
+* A fly-out circle menu built with CSS: https://github.com/callmenick/CSS-Circle-Menu
 * Simple, elegant content placeholder: https://chalarangelo.github.io/mocka/
 * t - s c r o l l: http://t-scroll.com
 * Gooey Menu: https://codepen.io/lbebber/pen/rawQKR
