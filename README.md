@@ -11,6 +11,9 @@ Awesome libraries, articles and resources for web development.
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
 * Simple grid system: http://simplegrid.io/
+* A JS library that makes it super easy to add fullscreen background videos: https://rishabhp.github.io/bideo.js/
+* JS animate engine: http://animejs.com/
+* WEBIX: https://webix.com/?utm_expid=131619688-7.pQhNhHWZRM6xw64tzUE6Zw.0&utm_referrer=http%3A%2F%2Fwebix.com%2Fwidgets%2F
 * Slider: https://vadimbogomazov.github.io/CrystalSlider/
 * Modal windows: http://madscript.com/boron/
 * Burger - Minimal, fullscreen nav: https://codepen.io/mblode/pen/qEGWwB
