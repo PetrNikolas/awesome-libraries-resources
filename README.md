@@ -5,6 +5,7 @@ Awesome libraries, articles and resources for web development.
 
 * Online image optimizer: http://optimizilla.com/
 * Compress and optimize your images: https://compressor.io/
+* Resume: https://latexresu.me/
 
 ## JS and CSS
 
