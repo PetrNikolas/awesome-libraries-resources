@@ -7,6 +7,10 @@ Awesome libraries, articles and resources for web development.
 * Compress and optimize your images: https://compressor.io/
 * Resume: https://latexresu.me/
 
+## Architecture
+* Simplifying your microservices architecture with Kafka and KafkaStreams: https://dev.to/danlebrero/simplifying-your-microservices-architecture-with-kafka-and-kafkastreams
+* Design patterns for microservices: https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/
+
 ## JS and CSS
 
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
@@ -101,6 +105,7 @@ Awesome libraries, articles and resources for web development.
 * mobile friendly css framework: http://chuckcss.io/
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
 * Build a Style Guide Straight from Sass: https://css-tricks.com/build-style-guide-straight-sass/
+* Reducing CSS bundle size 70% by cutting the class names and using scope isolation: https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
 
 ## Webpack, build process, etc
 
@@ -119,6 +124,8 @@ Awesome libraries, articles and resources for web development.
 * Learn TypeScript in 30 Minutes: http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
 * TypeScript Crash Course: https://www.youtube.com/watch?v=rAy_3SIqT-E
 * (CZ) MS Fest 2013 Praha: Typescript - konečně vás přestane JavaScript štvát (Tomáš Herceg): https://www.youtube.com/watch?v=fZsdEiTgv6o
+* Writing a Node.js module in TypeScript: https://dev.to/dkundel/writing-a-nodejs-module-in-typescript
+* Building a Node.js App with TypeScript Tutorial: https://medium.com/the-node-js-collection/building-a-node-js-app-with-typescript-tutorial-edbb3a874590
 
 ## Angular 2+
 
