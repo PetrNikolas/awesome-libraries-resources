@@ -13,6 +13,7 @@ Awesome libraries, articles and resources for web development.
 
 ## JS and CSS
 
+* Simply beautiful open source icons: https://feather.netlify.com/
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
 * Simple grid system: http://simplegrid.io/
