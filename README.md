@@ -209,6 +209,14 @@ Awesome libraries, articles and resources for web development.
 * Using Bootstrap and Sass with Phoenix Framework and Brunch: https://medium.com/@b1ackmartian/using-bootstrap-and-sass-with-phoenix-framework-and-brunch-6568e7a66ca9
 * Getting Started with RethinkDB and the Phoenix Framework — Introduction: https://medium.com/@ryanswapp/getting-started-with-rethinkdb-and-the-phoenix-framework-f55d767b9b07
 
+## Crystal
+
+* Crystal Lang: https://crystal-lang.org
+* A collection of awesome Crystal libraries, tools, frameworks and software: https://github.com/veelenga/awesome-crystal
+* A web framework for Crystal: https://razecr.com
+* Lightning fast, super simple web framework written in Crystal: http://kemalcr.com
+* Amber Amber is a web application framework written in Crystal inspired by Kemal, Rails, Phoenix and other popular application frameworks: http://www.ambercr.io
+
 ## Elm
 
 * Elm lang: http://elm-lang.org/
