@@ -108,6 +108,13 @@ Awesome libraries, articles and resources for web development.
 * Build a Style Guide Straight from Sass: https://css-tricks.com/build-style-guide-straight-sass/
 * Reducing CSS bundle size 70% by cutting the class names and using scope isolation: https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
 
+## GraphQL
+
+* Coursera’s journey to GraphQL: https://dev-blog.apollodata.com/courseras-journey-to-graphql-a5ad3b77f39a
+* Moving existing API from REST to GraphQL: https://medium.com/@raxwunter/moving-existing-api-from-rest-to-graphql-205bab22c184
+* How to Wrap a REST API in GraphQL: https://nordicapis.com/how-to-wrap-a-rest-api-in-graphql/
+* From REST to GraphQL: https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b
+
 ## Webpack, build process, etc
 
 * Webpack plugins, etc.: https://www.npmjs.com/package/webpack
