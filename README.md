@@ -224,7 +224,7 @@ Awesome libraries, articles and resources for web development.
 * A collection of awesome Crystal libraries, tools, frameworks and software: https://github.com/veelenga/awesome-crystal
 * A web framework for Crystal: https://razecr.com
 * Lightning fast, super simple web framework written in Crystal: http://kemalcr.com
-* Amber Amber is a web application framework written in Crystal inspired by Kemal, Rails, Phoenix and other popular application frameworks: http://www.ambercr.io
+* Amber is a web application framework written in Crystal inspired by Kemal, Rails, Phoenix and other popular application frameworks: http://www.amberframework.org
 
 ## Elm
 
