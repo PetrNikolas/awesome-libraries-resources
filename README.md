@@ -202,6 +202,8 @@ Awesome libraries, articles and resources for web development.
 * Ember.js and Rails API: https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/
 * React and Rails Starter Kit: https://github.com/spark-solutions/spark-starter-kit
 * React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
+* Building a JSON API with Rails 5: https://blog.codeship.com/building-a-json-api-with-rails-5/
+* Build a Restful JSON API with Rails 5: https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
 
 ## Elixir and Phoenix
 
