@@ -204,6 +204,7 @@ Awesome libraries, articles and resources for web development.
 * React and Rails Tutorials: https://hackhands.com/react-rails-tutorial/
 * Building a JSON API with Rails 5: https://blog.codeship.com/building-a-json-api-with-rails-5/
 * Build a Restful JSON API with Rails 5: https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
+* Building a RESTful API in a Rails Application: https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application#4-a-basic-rest-api-in-rails
 
 ## Elixir and Phoenix
 
