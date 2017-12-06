@@ -14,6 +14,7 @@ Awesome libraries, articles and resources for web development.
 ## JS and CSS
 
 * Simply beautiful open source icons: https://feather.netlify.com/
+* Simple tooltips made of pure CSS: https://kazzkiq.github.io/balloon.css/
 * A functional and reactive JavaScript framework for predictable code: https://cycle.js.org/
 * A collection of repeatable SVG background patterns for you to use on your web projects: http://www.heropatterns.com/
 * Simple grid system: http://simplegrid.io/
@@ -107,6 +108,13 @@ Awesome libraries, articles and resources for web development.
 * Slide Nav Example: https://qmixi.github.io/slide-nav/
 * Build a Style Guide Straight from Sass: https://css-tricks.com/build-style-guide-straight-sass/
 * Reducing CSS bundle size 70% by cutting the class names and using scope isolation: https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
+* Pants: A fast, scalable build system: https://www.pantsbuild.org/
+* Browserify lets you require('modules') in the browser by bundling up all of your dependencies.: http://browserify.org/
+* A build tool for modern web development: http://mimosa.io/
+* The static web server with built-in preprocessing.: http://harpjs.com/
+* High-performance webpack config for front-end delivery: https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa?utm_content=buffer61b28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* A Webpack built, Elastic Beanstalk deployment leveraging AWS S3: https://medium.com/statuscode/a-webpack-built-elastic-beanstalk-deployment-leveraging-aws-s3-as-a-cdn-54d62b851263
+* sonar a linting tool for the web: https://sonarwhal.com/
 
 ## GraphQL
 
