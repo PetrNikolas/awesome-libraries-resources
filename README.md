@@ -247,6 +247,7 @@ Awesome libraries, articles and resources for web development.
 * Elm Tutorial: https://www.elm-tutorial.org/en/
 * Elm webpack starter: https://github.oldjpg.com/repository/48860215
 * From JavaScript to Elm: A Blissful Journey: https://kevgathuku.me/2017/04/27/from-javascript-to-elm-a-blissful-journey/
+* Integrating Elm with Rails: https://blog.redpanthers.co/integrating-elm-rails/
 
 ## Reason
 
