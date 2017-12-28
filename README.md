@@ -203,6 +203,7 @@ Awesome libraries, articles and resources for web development.
 * Angular Model Pattern: https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87
 * The Guide to Building Quality Angular 2+ Components: https://blog.wishtack.com/2017/05/05/the-guide-to-building-quality-angular-2-components/
 * NgUpgrade with Closure Compiler: http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-closure-compiler
+* Exploring The New Meta Service in Angular Version 4: https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 
 ## Ruby and Ruby on Rails
 
