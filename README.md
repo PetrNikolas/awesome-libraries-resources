@@ -273,6 +273,8 @@ Awesome libraries, articles and resources for web development.
 * Adding Sass or Scss to Create-React-App: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 * Optimizing React + ES6 + Webpack Production Build: http://moduscreate.com/optimizing-react-es6-webpack-production-build/
 * Two Quick Ways To Reduce React App’s Size In Production: https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a
+* Deploy Next.js to Github Pages: https://jaketrent.com/post/deploy-nextjs-github-pages/
+* Next.js / GitHub Pages: https://medium.com/@anotherplanet/git-tips-next-js-github-pages-2dbc9a819cb8
 
 ## Vue.js
 
