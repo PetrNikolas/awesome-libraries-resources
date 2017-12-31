@@ -215,6 +215,9 @@ Awesome libraries, articles and resources for web development.
 * Build a Restful JSON API with Rails 5: https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
 * Building a RESTful API in a Rails Application: https://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application#4-a-basic-rest-api-in-rails
 * Find by SQL: http://guides.rubyonrails.org/active_record_querying.html#finding-by-sql
+* Setup ActionMailer: https://sendgrid.com/docs/Integrate/Frameworks/rubyonrails.html
+* How to send automated email in Ruby on Rails (with Mailgun): https://www.leemunroe.com/send-automated-email-ruby-rails-mailgun/
+* Sending Emails in Rails Applications: https://launchschool.com/blog/handling-emails-in-rails
 
 ## Elixir and Phoenix
 
