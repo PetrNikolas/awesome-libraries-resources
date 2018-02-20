@@ -122,6 +122,7 @@ Awesome libraries, articles and resources for web development.
 * Moving existing API from REST to GraphQL: https://medium.com/@raxwunter/moving-existing-api-from-rest-to-graphql-205bab22c184
 * How to Wrap a REST API in GraphQL: https://nordicapis.com/how-to-wrap-a-rest-api-in-graphql/
 * From REST to GraphQL: https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b
+* Building a GraphQL API in Rails — Part 2: Start Coding: https://medium.com/@DrawandCode/building-a-graphql-api-in-rails-part-start-coding-8b1de6d75041
 
 ## Webpack, build process, etc
 
