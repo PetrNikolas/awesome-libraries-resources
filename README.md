@@ -208,6 +208,7 @@ Awesome libraries, articles and resources for web development.
 * Exploring The New Meta Service in Angular Version 4: https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6
 * Angular + Jest + Wallabyjs why it is the ideal combination! And how to configure: https://blog.cloudboost.io/angular-jest-wallabyjs-why-it-is-the-ideal-combination-and-how-to-configure-b4cbe2eff4b3
 * Testing Angular 2 and Continuous Integration with Jest: https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
+* Unit testing Angular applications with Jest: https://izifortune.com/unit-testing-angular-applications-with-jest/
 
 ## Ruby and Ruby on Rails
 
