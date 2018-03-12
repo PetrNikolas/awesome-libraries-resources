@@ -146,6 +146,7 @@ Awesome libraries, articles and resources for web development.
 
 ## Angular 2+
 
+* Use React tools for better Angular apps: https://medium.com/@martin_hotell/use-react-tools-for-better-angular-apps-b0f14f3f8114
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
 * Building an Angular Application for Production: http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
 * Connecting Angular 2 to a Phoenix API: https://medium.com/@Oxyrus/connecting-angular-2-to-a-phoenix-api-75ede7f58bdf
