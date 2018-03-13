@@ -129,6 +129,7 @@ Awesome libraries, articles and resources for web development.
 * Webpack plugins, etc.: https://www.npmjs.com/package/webpack
 * Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4348
 * Error with webpack 2 and mapbox: https://github.com/mapbox/mapbox-gl-js/issues/4359
+* Using Google’s closure library with webpack: https://medium.com/@allycw/using-googles-closure-library-with-webpack-b944e2a4be3a
 
 ## Typescript
 
