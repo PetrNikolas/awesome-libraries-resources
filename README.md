@@ -118,6 +118,7 @@ Awesome libraries, articles and resources for web development.
 
 ## GraphQL
 
+* Create GraphQL schema from typescript class: https://github.com/prismake/typegql
 * Coursera’s journey to GraphQL: https://dev-blog.apollodata.com/courseras-journey-to-graphql-a5ad3b77f39a
 * Moving existing API from REST to GraphQL: https://medium.com/@raxwunter/moving-existing-api-from-rest-to-graphql-205bab22c184
 * How to Wrap a REST API in GraphQL: https://nordicapis.com/how-to-wrap-a-rest-api-in-graphql/
