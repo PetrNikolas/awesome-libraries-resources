@@ -211,6 +211,7 @@ Awesome libraries, articles and resources for web development.
 * Angular + Jest + Wallabyjs why it is the ideal combination! And how to configure: https://blog.cloudboost.io/angular-jest-wallabyjs-why-it-is-the-ideal-combination-and-how-to-configure-b4cbe2eff4b3
 * Testing Angular 2 and Continuous Integration with Jest: https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 * Unit testing Angular applications with Jest: https://izifortune.com/unit-testing-angular-applications-with-jest/
+* How to make your Angular 4 app SEO friendly: https://blog.pusher.com/make-angular-4-app-seo-friendly/
 
 ## Ruby and Ruby on Rails
 
