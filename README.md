@@ -212,6 +212,7 @@ Awesome libraries, articles and resources for web development.
 * Testing Angular 2 and Continuous Integration with Jest: https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 * Unit testing Angular applications with Jest: https://izifortune.com/unit-testing-angular-applications-with-jest/
 * How to make your Angular 4 app SEO friendly: https://blog.pusher.com/make-angular-4-app-seo-friendly/
+* Server-Side Rendering In Angular With Angular Universal: https://www.dunebook.com/server-side-rendering-angular-universal/
 
 ## Ruby and Ruby on Rails
 
