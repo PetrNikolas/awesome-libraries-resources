@@ -241,6 +241,7 @@ Awesome libraries, articles and resources for web development.
 * Using Bootstrap and Sass with Phoenix Framework and Brunch: https://medium.com/@b1ackmartian/using-bootstrap-and-sass-with-phoenix-framework-and-brunch-6568e7a66ca9
 * Getting Started with RethinkDB and the Phoenix Framework — Introduction: https://medium.com/@ryanswapp/getting-started-with-rethinkdb-and-the-phoenix-framework-f55d767b9b07
 * Building a REST API with Phoenix and Elixir: https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5
+* JWT Auth with an Elixir on Phoenix 1.3 API and React Native: https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51
 
 ## Crystal
 
