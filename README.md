@@ -146,7 +146,7 @@ Awesome libraries, articles and resources for web development.
 * Writing a Node.js module in TypeScript: https://dev.to/dkundel/writing-a-nodejs-module-in-typescript
 * Building a Node.js App with TypeScript Tutorial: https://medium.com/the-node-js-collection/building-a-node-js-app-with-typescript-tutorial-edbb3a874590
 
-## Angular 2+
+## Angular
 
 * Use React tools for better Angular apps: https://medium.com/@martin_hotell/use-react-tools-for-better-angular-apps-b0f14f3f8114
 * Handling data from server error: http://stackoverflow.com/questions/37230545/angular2-oninit-values-returned-from-service-subscribe-function-does-not-ge
